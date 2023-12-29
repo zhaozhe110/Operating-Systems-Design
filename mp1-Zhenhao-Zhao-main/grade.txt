@@ -1,0 +1,20 @@
+{
+  "total": 85.0,
+  "details": {
+    "compile_no_warn": 5.0,
+    "remove": 5.0,
+    "proc_fs": 10.0,
+    "proc_write": 5.0,
+    "proc_read": 0.0,
+    "multi_process": 0.0,
+    "userapp": 10.0,
+    "integrity": 5.0,
+    "linklist": 15.0,
+    "timer": 10.0,
+    "workqueue": 5.0,
+    "mutex": 5.0,
+    "slab": 5.0,
+    "comment": 2.5,
+    "readme": 2.5
+  }
+}
